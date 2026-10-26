@@ -13,3 +13,4 @@ export default defineConfig({
     exclude: ['@mediapipe/tasks-vision'],
   },
 })
+
